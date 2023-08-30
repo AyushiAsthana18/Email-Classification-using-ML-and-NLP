@@ -16,7 +16,7 @@
 
 ## Key Roles & Responsibilities:
 - Extracting Unstructured Data
-- Preparing/Labelling Dataset (categorizing emails into a set of standard queries using key phrases & validating with domain experts – AP Team)
+- Labelling Dataset (categorizing emails into a set of standard queries using key phrases & validating with domain experts – AP Team)
 - Exploratory Data Analysis (EDA)
 - Pre-processing (Feature Extraction)
 - Model selection (for multiclass text classification)
