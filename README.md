@@ -4,8 +4,7 @@
 
 **Background:** On daily basis, the Finance AP Team gets a lot of emails on different issues or queries from their customers or vendors & the team members are responsible to resolve & respond to them all. Finance
 
-**Solution Approach:** Extraction of the emails from shared mailboxes using automation (Python/Macro)
-Applying Text Analytics & Natural Language Processing on the email body & Identify the category of issue or query that the vendor/customer needs to enquire from Finance AP Team.
+**Solution Approach:** Extraction of the emails from shared mailboxes using automation. Applying Text Analytics & Natural Language Processing on the email body & Identify the category of issue or query that the vendor/customer needs to enquire from Finance AP Team.
 
 **Benefits:** This Text Analytics of big volume of emails on years/ half yearly/ quarterly/ monthly basis helps leaders identify the area of improvements & help the operational team to identify the issue automatically & allocate/redirect those to the responsible team member.
 
